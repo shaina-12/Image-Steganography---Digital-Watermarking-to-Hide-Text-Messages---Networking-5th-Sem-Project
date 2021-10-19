@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct 19 11:13:50 2021
+
+@author: hp
+"""
+
 from PIL import Image
 import numpy as np
 import itertools
