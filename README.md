@@ -5,5 +5,6 @@
 ## Submitted To 
 ## Guided By
 ## Acknowlegdements 
-###### This project is just an assignment given by our professor. Further developments will be done later on.
+## Note:
+###### This project is just an assignment given by our professor. We can say that this is our third project. Further developments will be done later on.  
 ## What the Projecy is all about?
