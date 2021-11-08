@@ -6,7 +6,7 @@
 ### Dr A. Shankar
 ## Guided By:
 ## Acknowlegdements:
-### Unsung Heros of Stack Overflow, Github and NEPTEL Course
+### Unsung Heros of Stack Overflow, Github, NPTEL Course, Wikipedia, Edureka, Wikipedia, Towards Data Science and other Web Blogs and Youtube Videos.
 ## Note:
 ###### This project is just an assignment given by our professor. We can say that this is our third project. Further developments will be done later on.  
 ## What the Project is all about?
