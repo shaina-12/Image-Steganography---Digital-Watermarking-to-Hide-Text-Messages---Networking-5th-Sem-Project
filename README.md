@@ -5,6 +5,7 @@
 ## Submitted To:
 ### Dr A. Shankar
 ## Guided By:
+### Dr Richa Gupta
 ## Acknowlegdements:
 ### Unsung Heros of Stack Overflow, Github, NPTEL Course, Wikipedia, Edureka, Wikipedia, Towards Data Science and other Web Blogs and Youtube Videos.
 ## Note:
