@@ -19,3 +19,9 @@
  Output-
  
  ![alt tag](https://github.com/Tanya-yadav/Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages---Networking-5th-Sem-Project/blob/main/Assignment/Screenshot%20(20).png)
+
+ ![alt tag](https://github.com/Tanya-yadav/Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages---Networking-5th-Sem-Project/blob/main/Assignment/Screenshot%20(17).png)
+ 
+ ![alt tag](https://github.com/Tanya-yadav/Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages---Networking-5th-Sem-Project/blob/main/Assignment/Screenshot%20(18).png)
+ 
+  ![alt tag](https://github.com/Tanya-yadav/Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages---Networking-5th-Sem-Project/blob/main/Assignment/Screenshot%20(21).png)
